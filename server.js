@@ -24,7 +24,7 @@ function createTemplate(data)
 <link href="/ui/style.css" rel="stylesheet"/>
 
 <title>
-{title}
+${title}
 </title>
 
 </head>
@@ -32,10 +32,10 @@ function createTemplate(data)
 <body>
     
 <h1>
-{heading}
+${heading}
 </h1>
 <p>
-{content}
+${content}
 </p>
 
 
