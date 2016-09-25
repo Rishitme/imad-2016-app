@@ -4,7 +4,7 @@ var path = require('path');
 
 var app = express();
 
-var artilceOne={
+var articleOne={
 title:"IMAD | Rishit Tandon",
 heading:"This is artcile 3",
 content:"This is article one.This is article one.This is artcile one",
