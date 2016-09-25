@@ -10,6 +10,7 @@ heading:"This is artcile 3",
 content:"This is article one.This is article one.This is artcile one",
 };
 
+var data;
 function createTemplate(data)
 { 
     var title=data.title;
